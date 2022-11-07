@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Asad Yasin
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently doing BS-IT
+- 🌱 Education BS-IT
 - 💞️ I’m looking to collaborate on front end web projectes
+-  ✔ I’m a react developer
 - 📫 My whatsapp 03064153657
 
 <!---
