@@ -46,9 +46,9 @@ I am a MERN Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <hr>
 
 ### :fire: My Stats :
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=asadyasin&show_icons=true&theme=radical)<br>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asadyasin&layout=compact&theme=vision-friendly-dark" alt="noorjsdivs" /><br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asadyasin&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+![asadyasin GitHub stats](https://github-readme-stats.vercel.app/api?username=asadyasin&layout=compact&theme=vision-friendly-dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asadyasin&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)<br>
+![asadyasin Github ranking](https://github-readme-streak-stats.herokuapp.com/?user=asadyasin&layout=compact&theme=vision-friendly-dark)
 <hr>
 
 ### :writing_hand: Portfolio :
