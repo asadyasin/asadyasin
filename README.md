@@ -53,6 +53,9 @@ I am a MERN Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Portfolio :
 
 <a href="https://asadyasin.github.io/portfolio">Asad Yasin Portfolio</a>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asadyasin&show_icons=true&locale=en" alt="noorjsdivs" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asadyasin&" alt="noorjsdivs" /></p>
 <!---
 asadyasin/asadyasin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
