@@ -47,15 +47,14 @@ I am a MERN Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### :fire: My Stats :
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=asadyasin&show_icons=true&theme=radical)<br>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asadyasin&layout=compact&theme=vision-friendly-dark" alt="noorjsdivs" /><br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asadyasin&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 <hr>
 
 ### :writing_hand: Portfolio :
 
 <a href="https://asadyasin.github.io/portfolio">Asad Yasin Portfolio</a>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asadyasin&show_icons=true&locale=en" alt="noorjsdivs" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asadyasin&" alt="noorjsdivs" /></p>
 <!---
 asadyasin/asadyasin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
